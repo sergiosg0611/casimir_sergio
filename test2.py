@@ -1,4 +1,5 @@
 area=100 # this is the initial area
+area=1
 import numpy as np
 import matplotlib.pyplot as plt
 
