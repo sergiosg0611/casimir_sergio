@@ -10,5 +10,6 @@ area_circle = pi*r**2
 
 print(area) # Print area of the triangle
 print(area_circle) # Print area of the circle
+
  
 # the input values of the file have changed 
