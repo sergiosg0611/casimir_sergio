@@ -1,5 +1,5 @@
 
-#'''testing comments to describe the file ''''
+# Change the vcalues!!!
 area=100 # this is the initial area
 area=1
 area=0
@@ -8,9 +8,8 @@ import matplotlib.pyplot as plt
 
 #### Comments on the file for future changes###
 
-
-b=3.6
-h=2.2
+b=3.0
+h=2
 r=1
 
 area = 0.5*b*h
