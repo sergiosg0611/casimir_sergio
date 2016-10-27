@@ -1,4 +1,3 @@
-
 # Change the vcalues!!!
 area=100 # this is the initial area
 area=1
